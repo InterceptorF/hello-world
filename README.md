@@ -1,2 +1,3 @@
 # hello-world
-Learning more about how git works 
+Learning more about how github works.
+Learning how to create branches . 
